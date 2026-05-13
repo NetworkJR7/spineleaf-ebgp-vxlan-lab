@@ -197,19 +197,19 @@ Planned next steps for the lab:
 
 ## ⚖️ ECMP Routing
 
-(Add screenshot here)
+
 
 ---
 
 ## 🌉 VXLAN MAC Learning
 
-(Add screenshot here)
+
 
 ---
 
 ## 📡 Tenant Connectivity Tests
 
-(Add screenshot here)
+
 
 ---
 
