@@ -188,7 +188,8 @@ Planned next steps for the lab:
 
 ## 🌐 BGP Underlay
 
-(Add screenshot here)
+<img width="1043" height="639" alt="image" src="https://github.com/user-attachments/assets/e7adbaad-d33a-418b-949d-0c88700467a7" />
+
 
 ---
 
