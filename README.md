@@ -210,6 +210,7 @@ Planned next steps for the lab:
 ---
 
 ## 📡 Tenant Connectivity Tests
+<img width="1296" height="812" alt="image" src="https://github.com/user-attachments/assets/7b5d966b-b57d-4468-81b8-f60156174898" />
 
 
 
