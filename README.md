@@ -190,6 +190,7 @@ Planned next steps for the lab:
 
 <img width="1043" height="639" alt="image" src="https://github.com/user-attachments/assets/e7adbaad-d33a-418b-949d-0c88700467a7" />
 
+<img width="1025" height="669" alt="image" src="https://github.com/user-attachments/assets/b2e1e77e-5f24-4944-aecc-b13936fea5fc" />
 
 ---
 
