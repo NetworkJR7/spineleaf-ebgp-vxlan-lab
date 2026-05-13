@@ -202,6 +202,7 @@ Planned next steps for the lab:
 ---
 
 ## 🌉 VXLAN MAC Learning
+<img width="859" height="1039" alt="image" src="https://github.com/user-attachments/assets/64665f46-ce44-4f48-afb6-f33c1dd2b96f" />
 
 
 
