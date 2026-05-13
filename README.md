@@ -211,6 +211,7 @@ Planned next steps for the lab:
 
 ## 📡 Tenant Connectivity Tests
 <img width="1296" height="812" alt="image" src="https://github.com/user-attachments/assets/7b5d966b-b57d-4468-81b8-f60156174898" />
+<img width="1346" height="869" alt="image" src="https://github.com/user-attachments/assets/88b86316-d626-4849-af8e-bc3e4c750020" />
 
 
 
