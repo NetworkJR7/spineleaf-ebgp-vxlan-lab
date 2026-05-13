@@ -191,6 +191,7 @@ Planned next steps for the lab:
 <img width="1043" height="639" alt="image" src="https://github.com/user-attachments/assets/e7adbaad-d33a-418b-949d-0c88700467a7" />
 <img width="1025" height="669" alt="image" src="https://github.com/user-attachments/assets/b2e1e77e-5f24-4944-aecc-b13936fea5fc" />
 <img width="1031" height="792" alt="image" src="https://github.com/user-attachments/assets/757db2b7-ebc1-4a96-9e6a-664152d066d2" />
+<img width="1027" height="768" alt="image" src="https://github.com/user-attachments/assets/602b0c69-9773-4ae5-be24-d207bb7b0913" />
 
 ---
 
