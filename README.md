@@ -54,6 +54,7 @@ The overlay network uses VXLAN to extend Layer-2 segments across the routed unde
             \      /
              Spine2
 ```
+<img width="990" height="1021" alt="image" src="https://github.com/user-attachments/assets/4de46100-4d3b-4927-b9b5-cd43758b8b8c" />
 
 ---
 
